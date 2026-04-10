@@ -6,6 +6,7 @@ I designed SPACENOTIFY because I often can not look at my phone to check upcomin
 ![Assembly](1.png)
 ![PCB](2.png)
 ![PCB](3.png)
+![PCB](20260410_11h46m12s_grim.png)
 # BOM
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 | --- | --- | --- | --- | --- | --- |
