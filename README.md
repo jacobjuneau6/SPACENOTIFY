@@ -3,6 +3,7 @@ SPACENOTIFY is a desktop dashboard that shows all space related activites includ
 # WHY
 I designed SPACENOTIFY because I often can not look at my phone to check upcoming launches and I never want to miss one so this can sit on mydesk and as it has no controls can not be a distraction like a phone.
 # Pictures
+
 ![Assembly](1.png)
 ![PCB](2.png)
 ![PCB](20260410_13h29m03s_grim.png)
